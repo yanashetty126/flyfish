@@ -1,0 +1,25 @@
+server start:
+node server.js
+
+/*-------------*/
+
+
+automatic server
+npm install -g nodemon
+
+install morgan
+
+npm install morgan --save
+
+install mongoose for database connection.
+
+start the project creating by app folder
+
+express middleware convers data into json type
+
+install body parser
+npm install body-parser --save
+
+instal bcrypt for password hashing
+
+npm install bcrypt-nodejs --save

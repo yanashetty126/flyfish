@@ -1,0 +1,1 @@
+﻿angular.module('userApp', ['appRoutes','userControllers', 'userServices', 'mainControllers', 'authServices']);
